@@ -84,7 +84,6 @@
 			children = (
 				A6BCB3502A2973D50079F71D /* AppDelegate.swift */,
 				A6BCB3522A2973D50079F71D /* SceneDelegate.swift */,
-				A6BCB3562A2973D50079F71D /* Main.storyboard */,
 				A6E3F3AF2A315E900033CF72 /* LoginTableViewController.swift */,
 				A6E3F3B12A315E9B0033CF72 /* RegisterTableViewController.swift */,
 				A6E3F3D72A317BA70033CF72 /* ErrorResponse.swift */,
@@ -98,6 +97,7 @@
 				A6E3F3D92A31B9F20033CF72 /* SaveDrinkTableViewController.swift */,
 				A6BCB36D2A298B940079F71D /* Menu.swift */,
 				A6BCB3772A29BC620079F71D /* Order.swift */,
+				A6BCB3562A2973D50079F71D /* Main.storyboard */,
 				A6BCB3592A2973D80079F71D /* Assets.xcassets */,
 				A6BCB35B2A2973D80079F71D /* LaunchScreen.storyboard */,
 				A6BCB35E2A2973D80079F71D /* Info.plist */,

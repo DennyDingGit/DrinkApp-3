@@ -16,8 +16,12 @@ class MenuTableViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+       
         
+        print("使用GitHub")
         fetchMenu()
+        
+        
     }
     
     override func viewWillAppear(_ animated: Bool) {
